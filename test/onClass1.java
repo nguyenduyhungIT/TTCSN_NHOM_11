@@ -30,7 +30,7 @@ public class onClass1 {
         if(check(n))
         {System.out.println(n+" la so nguyen to day nhe");
         }
-        
+        j
         else
         {System.out.println(n+" khong phair so nguyen to");}
     }
