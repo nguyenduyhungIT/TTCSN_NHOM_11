@@ -28,16 +28,13 @@ public class onClass1 {
         int n= (int) (Math.random() * 1000);
         
         if(check(n))
-        {System.out.println(n+" la so nguyen to");
+        {System.out.println(n+" la so nguyen to day nhe");
         }
         
         else
         {System.out.println(n+" khong phair so nguyen to");}
     }
 
-    test change 
-    
-    
     
     
 }
